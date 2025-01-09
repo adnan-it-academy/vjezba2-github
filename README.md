@@ -24,7 +24,7 @@ Dobrodošli u vašu drugu GitHub vježbu! U ovoj aktivnosti, naučit ćete kako:
    ```
 
 3. **Otvorite datoteku `main.py`** i implementirajte sljedeće:
-   - Dodajte implementaciju metoda unutar klase `ExampleClass`.
+   - Dodajte implementaciju metoda unutar klase `KorisnickiNalog`.
    - Dodajte još jednu metodu po vlastitom izboru.
 
 4. **Testirajte kod** kako biste bili sigurni da sve radi ispravno.
