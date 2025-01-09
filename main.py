@@ -94,7 +94,7 @@ class KorisnickiNalog:
         """
         self.email = novi_email
 
-    # Metode za pregled informacija
+    # Metode za pregled informacij
     def prikazi_podatke(self):
         """
         Ispisuje osnovne informacije o korisniku.
